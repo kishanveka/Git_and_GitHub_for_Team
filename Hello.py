@@ -3,3 +3,6 @@ def kishan_say:
 
 def dee_say:
   print("Hello Kishan and Jeff")
+
+def jeff_say:
+  print("Hello Kishan and Dee")
